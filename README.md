@@ -5,7 +5,8 @@ Hi, I’m Martin, current student of Computer Science at the University of Brist
 - I’m not looking to collaborate
 - How to reach me oravec.martin01@gmail.com (any and all spam email will be flagged and ignored)
 
-<!---### - Languages:
+<!---
+### - Languages:
     - C, C#, C++
     - Python
     - Go
