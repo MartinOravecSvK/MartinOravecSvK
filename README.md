@@ -5,7 +5,7 @@ Hi, I’m Martin, current student of Computer Science at the University of Brist
 - I’m not looking to collaborate
 - How to reach me oravec.martin01@gmail.com (any and all spam email will be flagged and ignored)
 
-### - Languages:
+<!---### - Languages:
     - C, C#, C++
     - Python
     - Go
@@ -54,7 +54,7 @@ Hi, I’m Martin, current student of Computer Science at the University of Brist
             - Network Security (Intermediate)
             - Vulnerability research (Beginner/Intermediate)
         
-
+--->
 <!---
 MartinOravecSvK/MartinOravecSvK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
