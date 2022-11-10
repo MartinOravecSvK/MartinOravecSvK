@@ -1,7 +1,7 @@
 Hi, I’m Martin, current student of Computer Science at the University of Bristol
 - I’m interested in Machine Learning/AI and Cyber Security
 - I’m currently learning and trying to recreate latest advancements in machine learning 
-  and offensive pentesting and networking along with some additional languages and/or tools
+  and learning offensive pentesting and networking along with some additional languages and/or tools
 - I’m not looking to collaborate
 - How to reach me oravec.martin01@gmail.com (any and all spam email will be flagged and ignored)
 
