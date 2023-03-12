@@ -1,8 +1,8 @@
 Hi, I’m Martin, current student of Computer Science at the University of Bristol
 - I’m interested in Machine Learning/AI and Cyber Security
-- I’m currently learning and trying to recreate latest advancements in machine learning 
-  and learning offensive pentesting and networking along with some additional languages and/or tools
-- How to reach me oravec.martin01@gmail.com 
+- I’m currently learning penteting and binary exploitation
+- I'm currently working on Toogether social app as a Full-Stack dev and in the future I'll lead the Security and Matchmaking algorithm parts
+- How to reach me: oravec.martin01@gmail.com 
 <!---
 ### - Languages:
     - C, C#, C++
@@ -53,8 +53,4 @@ Hi, I’m Martin, current student of Computer Science at the University of Brist
             - Network Security (Intermediate)
             - Vulnerability research (Beginner/Intermediate)
         
---->
-<!---
-MartinOravecSvK/MartinOravecSvK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
