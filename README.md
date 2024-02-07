@@ -1,6 +1,6 @@
 # Martin Oravec 🚀
 
-🎓 **CS Student @ University of Bristol** | 🌐 **Software Engineering** | 🧠 **AI & ML** | 🖥 **High-Performance Computing** | 🔒 **Cybersecurity**
+🎓 **CS Student @ University of Bristol** | 🌐 **Software Engineering** | 🧠 **AI & ML** | 🔒 **Cybersecurity** | 🖥 **High-Performance Computing**
 
 ### About Me
 I am passionate about making an impact through software solutions for real-world problems but also leveraging machine learning and deep learning to solve complex problems and their use in simulation acceleration. My other interest is in cybersecurity due to its ever-increasing importance. 
@@ -30,3 +30,11 @@ I am passionate about making an impact through software solutions for real-world
 
 Let's make an impact together. ✨
 -->
+
+### 📊 GitHub Stats
+
+![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourGitHubUsername&show_icons=true&theme=radical)
+
+### 📈 GitHub Activity Graph
+
+![Martin's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourGitHubUsername&theme=github)
