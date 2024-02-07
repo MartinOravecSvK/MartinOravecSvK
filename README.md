@@ -31,10 +31,9 @@ I am passionate about making an impact through software solutions for real-world
 Let's make an impact together. ✨
 -->
 
-### 📊 GitHub Stats
 
 ![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinOravecSvK&show_icons=true&theme=radical)
 
-### 📈 GitHub Activity Graph
-
+<!--
 ![Martin's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MartinOravecSvK&theme=github)
+-->
