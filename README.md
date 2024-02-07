@@ -1,47 +1,32 @@
-# Martin Oravec
+# Martin Oravec 🚀
 
-🎓 **3rd Year Computer Science Student** at the University of Bristol
+🎓 **CS Student @ University of Bristol** | 🌐 **Software Engineering** | 🧠 **AI & ML** | 🖥 **High-Performance Computing** | 🔒 **Cybersecurity**
 
-🔍 **Interests:** Software Engineering, Machine Learning/Deep Learning, AI-accelerated Simulation, High-Performance Computing, Cybersecurity
+### About Me
+I am passionate about making an impact through software solutions for real-world problems but also leveraging machine learning and deep learning to solve complex problems and their use in simulation acceleration. My other interest is in cybersecurity due to its ever-increasing importance. 
 
-## About Me
+### Skills
+`Python` `Java` `Go` `C/C++` `C#` `React` `Node.js` `TensorFlow` `PyTorch` `Docker` `AWS`
 
-I'm a passionate Computer Science student currently exploring the intricate world of technology, with a keen interest in pushing the boundaries of Machine Learning, High-Performance Computing, and Cybersecurity. My academic journey at the University of Bristol has equipped me with a robust foundation in software engineering principles, and my involvement in various projects and research internships has allowed me to apply these skills in real-world scenarios.
+### Experience
+- **Graduate Teacher**: Enhancing CS education at Bristol.
+- **Founding Engineer** at Toogether: Spearheading development.
+- **Research Intern**: Innovating in AI for video enhancement.
 
-As someone deeply interested in AI and simulation, I have dedicated my time to projects that leverage these technologies to solve complex problems, improve efficiencies, and unlock new possibilities. Whether it's enhancing low-light videos with Deep Learning or simulating neuron activities for advanced research, I thrive on challenges that require both creativity and technical expertise.
+<!---
+### Projects
+- **MetaCrypt**: Optimizing file encryption.
+- **Neuron Simulation**: Accelerating research with AI.
+- **Game of Life & Scotland Yard**: Showcasing algorithmic creativity.
 
-### 🛠 Skills
+### Currently Learning 🌱
+- Deep Learning advancements.
+- Next-gen cybersecurity.
 
-- **Programming Languages:** Python, Java, C/C++, C#, SQL, JavaScript/TypeScript, HTML/CSS, Go, Flutter, Bash, Assembly
-- **Frameworks/Libraries:** React, React Native, Node.js, Flask, Django, .NET, TensorFlow, PyTorch, Metasploit, pandas, NumPy, Matplotlib, Seaborn
-- **Developer Tools:** Git, Docker, Firebase, AWS, IBM Cloud, Jira, Figma, Notion, Jupyter, Unity, Postman, WireShark
+### Connect 📫
+- LinkedIn: [Your LinkedIn]
+- GitHub: [Your GitHub]
+- Email: oravec.martin01@gmail.com
 
-### 💼 Experience
-
-- **Graduate Teacher** at the University of Bristol, where I provided teaching support across several Computer Science courses, enhancing students' understanding of key technologies and cybersecurity principles.
-- **Founding Engineer** at Toogether, contributing to both front-end and back-end development of a social media app, utilizing React Native, Python, and Django among other technologies.
-- **Research Intern** at the University of Bristol, focusing on AI-driven enhancements for low-light video enhancement, and developing custom models for efficiency improvements.
-
-### 🚀 Projects
-
-- **MetaCrypt:** A file metadata encryption solution, showcasing my leadership in software development and my ability to optimize code for better performance.
-- **Neuron Simulation:** An AI-accelerated simulation project that significantly reduced simulation time, demonstrating my interest and capability in combining machine learning with simulation.
-- **Game of Life & Scotland Yard Board Game:** Projects that not only highlight my programming skills but also my ability to apply algorithms and optimization techniques to create efficient and engaging applications.
-
-### 📚 Education
-
-- **(Integrated) Master of Engineering in Computer Science**, University of Bristol (Sept. 2020 – June 2025)
-
-### 🌱 I’m currently learning
-
-- Advanced techniques in Deep Learning and AI-accelerated Simulation.
-- Cutting-edge cybersecurity practices to stay ahead in the field.
-
-### 📫 How to reach me
-
-- **LinkedIn:** [Insert LinkedIn Profile URL]
-- **GitHub:** [Insert GitHub Profile URL]
-- **Email:** oravec.martin01@gmail.com
-
-Let's connect and explore how we can leverage technology to create innovative solutions and make a meaningful impact.
-
+Let's make an impact together. ✨
+-->
