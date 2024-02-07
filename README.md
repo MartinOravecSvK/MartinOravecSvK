@@ -1,5 +1,5 @@
 # Martin Oravec 🚀
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Deep+Learning+Expert;Cybersecurity+Enthusiast;Future+Researcher)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Software+Engineer;Deep+Learning+Expert;Cybersecurity+Enthusiast;Future+Researcher)
 
 <!--
 Make the profile look more like this: https://github.com/DenverCoder1#%EF%B8%8F-holopin-badges
