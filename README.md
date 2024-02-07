@@ -1,4 +1,5 @@
 # Martin Oravec 🚀
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Deep+Learning+Expert;Cybersecurity+Enthusiast;Future+Researcher)
 
 🎓 **CS Student @ University of Bristol** | 🌐 **Software Engineering** | 🧠 **AI & ML** | 🔒 **Cybersecurity** | 🖥 **High-Performance Computing**
 
@@ -47,9 +48,21 @@ I am passionate about making an impact through software solutions for real-world
 Let's make an impact together. ✨
 -->
 
-
+<!--
 ![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinOravecSvK&show_icons=true&theme=radical)
+-->
 
 <!--
 ![Martin's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MartinOravecSvK&theme=github)
+-->
+
+
+![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinOravecSvK&show_icons=true&theme=radical)
+
+![Martin's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=MartinOravecSvK&theme=dark)
+
+<!--
+### 🕵️ Visitor Counter
+
+![Visitors](https://hits.sh/MartinOravecSvK.svg)
 -->
