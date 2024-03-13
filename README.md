@@ -63,7 +63,7 @@ Let's make an impact together. ✨
 
 ![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinOravecSvK&show_icons=true&theme=github_dark_dimmed)
 
-![Martin's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=MartinOravecSvK&theme=dark)
+![Martin's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=MartinOravecSvK&theme=github_dark_dimmed)
 
 <!--
 ### 🕵️ Visitor Counter
