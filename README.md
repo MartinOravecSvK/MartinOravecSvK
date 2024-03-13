@@ -1,4 +1,4 @@
-# Martin Oravec 🚀
+# Martin Oravec
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Software+Engineer;Deep+Learning+Engineer;Cybersecurity+Enthusiast;Researcher)
 
 <!--
@@ -8,7 +8,7 @@ Make the profile look more like this: https://github.com/DenverCoder1#%EF%B8%8F-
 🎓 **CS Student @ University of Bristol** | 🌐 **Software Engineering** | 🧠 **AI & ML** | 🔒 **Cybersecurity** | 🖥 **High-Performance Computing**
 
 ### About Me
-I am passionate about making an impact through software solutions for real-world problems but also leveraging machine learning and deep learning to solve complex problems and their use in simulation acceleration. My other interest is in cybersecurity due to its ever-increasing importance. 
+I am passionate about making an impact through software solutions for real-world problems and leveraging machine learning and deep learning to solve complex problems and their use in simulation acceleration. My other interest is in cybersecurity due to its ever-increasing importance. 
 
 <!--
 ### Skills
