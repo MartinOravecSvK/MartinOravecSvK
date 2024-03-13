@@ -1,5 +1,5 @@
 # Martin Oravec 🚀
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Software+Engineer;Deep+Learning+Expert;Cybersecurity+Enthusiast;Future+Researcher)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Software+Engineer;Deep+Learning+Engineer;Cybersecurity+Enthusiast;Researcher)
 
 <!--
 Make the profile look more like this: https://github.com/DenverCoder1#%EF%B8%8F-holopin-badges
@@ -10,10 +10,9 @@ Make the profile look more like this: https://github.com/DenverCoder1#%EF%B8%8F-
 ### About Me
 I am passionate about making an impact through software solutions for real-world problems but also leveraging machine learning and deep learning to solve complex problems and their use in simulation acceleration. My other interest is in cybersecurity due to its ever-increasing importance. 
 
-### Skills
 <!--
+### Skills
 `Python` `Java` `Go` `C/C++` `C#` `React` `Node.js` `TensorFlow` `PyTorch` `Docker` `AWS`
--->
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -33,6 +32,7 @@ I am passionate about making an impact through software solutions for real-world
 - **Graduate Teacher**: Enhancing CS education at Bristol.
 - **Founding Engineer** at Toogether: Spearheading development.
 - **Research Intern**: Innovating in AI for video enhancement.
+-->
 
 <!---
 ### Projects
