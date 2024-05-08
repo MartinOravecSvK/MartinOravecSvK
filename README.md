@@ -1,3 +1,36 @@
+# Hello, I'm Martin
+
+<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Software+Engineer;Machine+Learning+Engineer;Cybersecurity+Enthusiast;Future+Researcher" alt="Typing SVG" />
+
+<p align="center">
+  🎓 <strong>CS Student @ University of Bristol</strong>  
+  🌐 <strong>Software Engineering</strong> | 🧠 <strong>AI & ML</strong> | 🔒 <strong>Cybersecurity</strong> | 🖥 <strong>High-Performance Computing</strong>
+</p>
+
+<hr>
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=MartinOravecSvK&show_icons=true&theme=github_dark_dimmed&rank_icon=github" alt="Martin's GitHub stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MartinOravecSvK&theme=github_dark_dimmed" alt="Martin's GitHub streak" />
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+<!--
+CUT PARTS
+
+
+
 # Martin Oravec
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Software+Engineer;Machine+Learning+Engineer;Cybersecurity+Enthusiast;Future+Researcher)
 
@@ -6,11 +39,6 @@
 ![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinOravecSvK&show_icons=true&theme=github_dark_dimmed&rank_icon=github)
 
 ![Martin's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=MartinOravecSvK&theme=github_dark_dimmed)
-
-
-
-<!--
-CUT PARTS
 
 
 ### About Me
