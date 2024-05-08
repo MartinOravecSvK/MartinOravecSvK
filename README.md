@@ -7,7 +7,8 @@
 </p>
 
 <p align="center">
-  🎓 <strong>CS Student @ University of Bristol</strong>  
+  🎓 <strong>CS Student @ University of Bristol</strong>
+  <br\>
   🌐 <strong>Software Engineering</strong> | 🧠 <strong>AI & ML</strong> | 🧬 <strong>Computational Neuroscience</strong> | 🔒 <strong>Cybersecurity</strong> | 🖥 <strong>HPC</strong>
 </p>
 
