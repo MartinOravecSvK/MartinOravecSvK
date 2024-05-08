@@ -1,6 +1,8 @@
-# Hello, I'm Martin
+<h1 align="center">Hello, I'm Martin Oravec!</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Software+Engineer;Machine+Learning+Engineer;Cybersecurity+Enthusiast;Future+Researcher" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Software+Engineer;Machine+Learning+Engineer;Cybersecurity+Enthusiast;Future+Researcher" alt="Typing SVG" />
+</p>
 
 <p align="center">
   🎓 <strong>CS Student @ University of Bristol</strong>  
@@ -19,6 +21,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
