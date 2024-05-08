@@ -2,9 +2,6 @@
   Hello, I'm Martin Oravec! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving hand" />
 </h1>
 
-<div style="text-align: center;">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Software+Engineer;Machine+Learning+Engineer;Cybersecurity+Enthusiast;Future+Researcher" alt="Typing SVG" />
-</div>
 
 <p align="center">
   🎓 <strong>CS Student @ University of Bristol</strong>  
@@ -35,6 +32,9 @@
 <!--
 CUT PARTS
 
+<div style="text-align: center;">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Software+Engineer;Machine+Learning+Engineer;Cybersecurity+Enthusiast;Future+Researcher" alt="Typing SVG" />
+</div>
 
 
 # Martin Oravec
