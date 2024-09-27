@@ -7,9 +7,7 @@
   <br />
   🚀 <strong>Passionate about solving complex problems and creating meaningful impact</strong>
   <br />
-  💼 <strong>Focused on FinTech</strong> | ⚡ <strong>High-Frequency Trading (HFT)</strong> | 🤖 <strong>Artificial Intelligence</strong> 
-  <br />
-  🔐 <strong>Cybersecurity</strong>
+  💼 <strong>Focused on FinTech</strong> | ⚡ <strong>High-Frequency Trading (HFT)</strong> | 🤖 <strong>Artificial Intelligence</strong>
 </p>
 
 <hr>
